@@ -1,23 +1,10 @@
-.. codcivic documentation master file, created by
-   sphinx-quickstart on Wed Aug 17 22:20:01 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to codcivic documentation!
-Bune dimineti
-===========================================
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
+Bun venit! Aici găsești documentația pentru proiectul cod civic. 
 
 
+Există două părți mari esențiale:
 
-Indices and tables
-==================
+:ref:`cc-docs`
+:ref:`cc-proiecte`
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
+"Cod civic" - fully open source and available under an MIT license.
