@@ -1,0 +1,1 @@
+Search.setIndex({envversion:50,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{"c\u0103ut":0,bun:0,codciv:0,contents:0,diminet:0,documentation:0,index:0,modul:0,pagin:0,welcom:0},titles:["Indices and tables"],titleterms:{and:0,indices:0,tables:0}})
